@@ -1,7 +1,7 @@
 # RIF
 Routing Information Field
 
-# Structur
+# Structure
 
 Routing information is stored in the header of token ring frames in the RIF.
 
