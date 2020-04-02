@@ -49,3 +49,6 @@ Routing information is stored in the header of token ring frames in the RIF.
                                    |        100       |8232|         8188          |
                                    +------------------+----+-----------------------+
     
+    
+    
+    
