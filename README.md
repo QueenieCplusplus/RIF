@@ -18,11 +18,12 @@ Routing information is stored in the header of token ring frames in the RIF.
     +-----------+--------+-----------+---------------+    |
     | Broadcast | Length | Direction | Largest Frame |    |
     +-----------+--------+-----------+---------------+    |
-                                                          |
-                                                          |
-                                                          |
-                                                          V
-                                              +----------+------------+
-                                              | Ring Num | Bridge Num |
-                                              +----------+------------+
-                                              
+       |                                                  |
+       |                                                  |
+       |                                                  |
+       |                                                  V
+       |                                      +----------+------------+
+       |                                      | Ring Num | Bridge Num |
+       |                                      +----------+------------+
+       V
+      
